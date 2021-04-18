@@ -1,0 +1,14 @@
+<script>
+        $(document).ready(function() {
+            $("#tracnghiem").change(function() {
+                var idtn = $(this).val();
+                $.ajax({
+                    url: "ajax/cauhoi/" + idtn,
+                    success: function(result) {
+                        $("#Level").html(result);
+                    }
+                });
+            });
+        });
+
+    </script>
