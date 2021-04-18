@@ -14,16 +14,16 @@ Công nghệ : + Jquery, Ajax, Laravel, Pusher Api Account, Api login facebook, 
 * Đăng nhập, đăng ký, xem profile, sửa thông tin, avatar.<br>
 ![image](https://user-images.githubusercontent.com/80085436/115134386-cd20f000-a039-11eb-80c4-d34567d84d34.png)
 ![image](https://user-images.githubusercontent.com/80085436/115134419-1f621100-a03a-11eb-9aef-7bd7ad0d0c9b.png)
-<br>
+
 * Danh sách khóa học theo thể loại và cấp độ khác nhau.
 ![image](https://user-images.githubusercontent.com/80085436/115134451-651ed980-a03a-11eb-9cd4-b9ea6c0895c7.png)
 ![image](https://user-images.githubusercontent.com/80085436/115134462-77991300-a03a-11eb-8251-c80bb4fcb9ad.png)
-<br>
+
 * Chi tiết khóa học( nội dung bài học, media, clip youtube, api google translate, dowload PDF, bài trắc nghiệm 5 câu, bình luận, vote).
 ![image](https://user-images.githubusercontent.com/80085436/115134499-cfd01500-a03a-11eb-8d93-95c7f4ab7ffb.png)
 ![image](https://user-images.githubusercontent.com/80085436/115134503-dc546d80-a03a-11eb-898a-a4581d3f6fac.png)
 ![image](https://user-images.githubusercontent.com/80085436/115134505-e4aca880-a03a-11eb-9adc-422e2b3afe2b.png)
-<br>
+
 * Đăng ký giảng viên dành cho thành viên thường.
 ![image](https://user-images.githubusercontent.com/80085436/115134551-5dac0000-a03b-11eb-831c-8d66c28eef00.png)
 <br>
