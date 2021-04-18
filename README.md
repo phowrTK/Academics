@@ -30,7 +30,7 @@ Công nghệ : + Jquery, Ajax, Laravel, Bootstrap.<br>
 ![image](https://user-images.githubusercontent.com/80085436/115133934-10795f80-a036-11eb-8585-3086bdd8cca6.png)
 * Thêm giỏ hàng Ajax.
 ![image](https://user-images.githubusercontent.com/80085436/115133954-59c9af00-a036-11eb-9301-b02d04904ec7.png)
-* Thanh toán, xem đơn hàng và tình trạng, duyệt đơn hàng.
+* Thanh toán, xem đơn hàng và tình trạng, duyệt đơn hàng.<br>
 ![image](https://user-images.githubusercontent.com/80085436/115133980-98f80000-a036-11eb-9107-8d26cd57d175.png)
 ![image](https://user-images.githubusercontent.com/80085436/115133990-af9e5700-a036-11eb-9554-5b0cfcfe8929.png)
 
