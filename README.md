@@ -10,27 +10,34 @@
 ## Giới Thiệu Chức Năng.
 Ngôn ngữ : + PHP, Javascript.<br>
 Dự liệu : +MySql.<br>
-Công nghệ : + Jquery, Ajax, Laravel, Bootstrap.<br>
+Công nghệ : + Jquery, Ajax, Laravel, Pusher Api Account, Api login facebook, gmail, Api google translate.<br>
 * Đăng nhập, đăng ký, xem profile, sửa thông tin, avatar.<br>
-![image](https://user-images.githubusercontent.com/80085436/115133738-a8764980-a034-11eb-8b63-b9018b35d293.png)
-* Quản lý người dùng và phân quyền.
-![image](https://user-images.githubusercontent.com/80085436/115133800-2aff0900-a035-11eb-801a-0380819b531d.png)
-* Thêm Xóa Sửa danh mục và sản phẩm,
-* Tìm kiếm bằng ajax.
-![image](https://user-images.githubusercontent.com/80085436/115133826-508c1280-a035-11eb-9230-c53ff9aee907.png)
-* Theo dõi đơn hàng và cập nhật trạng thái.
-![image](https://user-images.githubusercontent.com/80085436/115133846-6e597780-a035-11eb-87d0-6975da4e833e.png)
-* Xem Danh Sách, phân trang.
-![image](https://user-images.githubusercontent.com/80085436/115133892-c85a3d00-a035-11eb-8c9a-c1f24c3ecc01.png)
-* Xem chi tiết, top vote.
-* Đánh giá, và bình luận Ajax.
-![image](https://user-images.githubusercontent.com/80085436/115133922-f049a080-a035-11eb-82b6-e5b52c3c3ca1.png)
-![image](https://user-images.githubusercontent.com/80085436/115133934-10795f80-a036-11eb-8585-3086bdd8cca6.png)
-* Thêm giỏ hàng Ajax.
-![image](https://user-images.githubusercontent.com/80085436/115133954-59c9af00-a036-11eb-9301-b02d04904ec7.png)
-* Thanh toán, xem đơn hàng và tình trạng, duyệt đơn hàng.<br>
-![image](https://user-images.githubusercontent.com/80085436/115133980-98f80000-a036-11eb-9107-8d26cd57d175.png)
-![image](https://user-images.githubusercontent.com/80085436/115133990-af9e5700-a036-11eb-9554-5b0cfcfe8929.png)
+![image](https://user-images.githubusercontent.com/80085436/115134386-cd20f000-a039-11eb-80c4-d34567d84d34.png)
+![image](https://user-images.githubusercontent.com/80085436/115134419-1f621100-a03a-11eb-9aef-7bd7ad0d0c9b.png)
+* Danh sách khóa học theo thể loại và cấp độ khác nhau.
+![image](https://user-images.githubusercontent.com/80085436/115134451-651ed980-a03a-11eb-9cd4-b9ea6c0895c7.png)
+![image](https://user-images.githubusercontent.com/80085436/115134462-77991300-a03a-11eb-8251-c80bb4fcb9ad.png)
+* Chi tiết khóa học( nội dung bài học, media, clip youtube, api google translate, dowload PDF, bài trắc nghiệm 5 câu, bình luận, vote).
+![image](https://user-images.githubusercontent.com/80085436/115134499-cfd01500-a03a-11eb-8d93-95c7f4ab7ffb.png)
+![image](https://user-images.githubusercontent.com/80085436/115134503-dc546d80-a03a-11eb-898a-a4581d3f6fac.png)
+![image](https://user-images.githubusercontent.com/80085436/115134505-e4aca880-a03a-11eb-9adc-422e2b3afe2b.png)
+* Đăng ký giảng viên dành cho thành viên thường.
+![image](https://user-images.githubusercontent.com/80085436/115134551-5dac0000-a03b-11eb-831c-8d66c28eef00.png)
+* Đăng khóa học dành cho giảng viên.
+![image](https://user-images.githubusercontent.com/80085436/115134525-1a519180-a03b-11eb-8c3a-c2dd42aa1a89.png)
+* Chức năng chat real-time cho tất cả mọi người liên hệ và tương tác với nhau( có chỉnh chế độ dark mode and chat color, update hình ảnh).
+![image](https://user-images.githubusercontent.com/80085436/115134575-8c29db00-a03b-11eb-9aec-cb5115e2d49c.png)
+![image](https://user-images.githubusercontent.com/80085436/115134579-977d0680-a03b-11eb-894c-e5a7532d8345.png)
+* Trang quản lý Admin( thay đổi color giao diện, quản lý level, category, account, quiz).
+![image](https://user-images.githubusercontent.com/80085436/115134624-e9be2780-a03b-11eb-9a7d-6ea422a15877.png)
+![image](https://user-images.githubusercontent.com/80085436/115134631-f5115300-a03b-11eb-841a-bf4bab142a92.png)
+* Quản lý quyền và nâng cấp quyền giảng viên cho thành viên đăng ký.
+![image](https://user-images.githubusercontent.com/80085436/115134661-46b9dd80-a03c-11eb-808e-50530566dba8.png)
+
+
+
+
+
 
 
 
