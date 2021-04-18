@@ -9,70 +9,33 @@
 
 ## About Laravel
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+## Giới Thiệu Chức Năng.
+Ngôn ngữ : + PHP, Javascript.<br>
+Dự liệu : +MySql.<br>
+Công nghệ : + Jquery, Ajax, Laravel, Bootstrap.<br>
+* Đăng nhập, đăng ký, xem profile, sửa thông tin, avatar.<br>
+![image](https://user-images.githubusercontent.com/80085436/115133738-a8764980-a034-11eb-8b63-b9018b35d293.png)
+* Quản lý người dùng và phân quyền.
+![image](https://user-images.githubusercontent.com/80085436/115133800-2aff0900-a035-11eb-801a-0380819b531d.png)
+* Thêm Xóa Sửa danh mục và sản phẩm,
+* Tìm kiếm bằng ajax.
+![image](https://user-images.githubusercontent.com/80085436/115133826-508c1280-a035-11eb-9230-c53ff9aee907.png)
+* Theo dõi đơn hàng và cập nhật trạng thái.
+![image](https://user-images.githubusercontent.com/80085436/115133846-6e597780-a035-11eb-87d0-6975da4e833e.png)
+* Xem Danh Sách, phân trang.
+![image](https://user-images.githubusercontent.com/80085436/115133892-c85a3d00-a035-11eb-8c9a-c1f24c3ecc01.png)
+* Xem chi tiết, top vote.
+* Đánh giá, và bình luận Ajax.
+![image](https://user-images.githubusercontent.com/80085436/115133922-f049a080-a035-11eb-82b6-e5b52c3c3ca1.png)
+![image](https://user-images.githubusercontent.com/80085436/115133934-10795f80-a036-11eb-8585-3086bdd8cca6.png)
+* Thêm giỏ hàng Ajax.
+![image](https://user-images.githubusercontent.com/80085436/115133954-59c9af00-a036-11eb-9301-b02d04904ec7.png)
+* Thanh toán, xem đơn hàng và tình trạng, duyệt đơn hàng.
+![image](https://user-images.githubusercontent.com/80085436/115133980-98f80000-a036-11eb-9107-8d26cd57d175.png)
+![image](https://user-images.githubusercontent.com/80085436/115133990-af9e5700-a036-11eb-9554-5b0cfcfe8929.png)
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-## Learning Laravel
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[British Software Development](https://www.britishsoftware.co)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- [UserInsights](https://userinsights.com)
-- [Fragrantica](https://www.fragrantica.com)
-- [SOFTonSOFA](https://softonsofa.com/)
-- [User10](https://user10.com)
-- [Soumettre.fr](https://soumettre.fr/)
-- [CodeBrisk](https://codebrisk.com)
-- [1Forge](https://1forge.com)
-- [TECPRESSO](https://tecpresso.co.jp/)
-- [Runtime Converter](http://runtimeconverter.com/)
-- [WebL'Agence](https://weblagence.com/)
-- [Invoice Ninja](https://www.invoiceninja.com)
-- [iMi digital](https://www.imi-digital.de/)
-- [Earthlink](https://www.earthlink.ro/)
-- [Steadfast Collective](https://steadfastcollective.com/)
-- [We Are The Robots Inc.](https://watr.mx/)
-- [Understand.io](https://www.understand.io/)
-- [Abdel Elrafa](https://abdelelrafa.com)
-- [Hyper Host](https://hyper.host)
-- [Appoly](https://www.appoly.co.uk)
-- [OP.GG](https://op.gg)
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
