@@ -7,8 +7,6 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## About Laravel
-
 ## Giới Thiệu Chức Năng.
 Ngôn ngữ : + PHP, Javascript.<br>
 Dự liệu : +MySql.<br>
